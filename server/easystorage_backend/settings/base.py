@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'jazzmin',
     'django.contrib.auth',
     "django.contrib.admin",
+    'drf_yasg',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
@@ -51,7 +52,7 @@ INSTALLED_APPS = [
     'simple_history',
     'apps.core',
     'apps.authentication',
-    'apps.user',
+    'apps.user'
 ]
 
 
